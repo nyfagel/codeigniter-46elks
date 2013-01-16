@@ -1,0 +1,5 @@
+name: 46elks
+version: 0.0.1
+compability: 2.1.2
+dependencies:
+	restclient: 2.1.0
